@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/finalproject/static/css/main.d3c7395d.css",
+    "main.js": "/finalproject/static/js/main.d2aec31b.js",
+    "static/media/diabetes.jpg": "/finalproject/static/media/diabetes.fc02b33049ecb673a7a7.jpg",
+    "static/media/hand.png": "/finalproject/static/media/hand.cdbd52ae094b9e3f9bfd.png",
+    "static/media/sns1.png": "/finalproject/static/media/sns1.9a305d93bf8d531878df.png",
+    "static/media/sns.png": "/finalproject/static/media/sns.3447f5fdc22896c728e5.png",
+    "static/media/sns2.png": "/finalproject/static/media/sns2.b10321b075cfe4ff8ed1.png",
+    "index.html": "/finalproject/index.html",
+    "main.d3c7395d.css.map": "/finalproject/static/css/main.d3c7395d.css.map",
+    "main.d2aec31b.js.map": "/finalproject/static/js/main.d2aec31b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c7395d.css",
+    "static/js/main.d2aec31b.js"
+  ]
+}
